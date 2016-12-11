@@ -1,0 +1,104 @@
+
+html {
+  background: #0066cc;
+  background: linear-gradient(#0066cc, #e6f2ff) no-repeat;
+  height: 100%;
+}
+
+html, body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.navbar {
+  width: 100%;
+  height: 110px;
+  background-color: black;
+  text-align: right;
+  margin-top: -17px;
+  padding-top: 25px;
+}
+
+#name {
+  font-family: 'codystar';
+  font-size: 120px;
+  text-align: center;
+}
+
+.title {
+  font-family: 'Cormorant Garamond';
+  font-size: 80px;
+  text-align: center;
+}
+
+li {
+  display: inline;
+  list-style-type: none;
+  font-family: 'Cormorant Garamond';
+  font-size: 50px;
+  position: relative;
+  margin-right: 30px;
+}
+
+li a {
+    color: #cccccc;
+}
+
+li a:hover {
+  color: #f2f2f2;
+}
+
+#homelink {
+  float: left;
+  margin-left: -10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #cccccc;
+}
+
+p a:hover {
+  color: #cccccc;
+}
+
+.intro .hr {
+  margin-top: -65px;
+  margin-bottom: 5px;
+}
+
+.hr {
+  margin-top: -50px;
+  margin-bottom: 70px;
+}
+
+.intro p {
+  text-align: center;
+  font-family: 'Cormorant Garamond';
+  font-size: 30px;
+  line-height: 10px;
+}
+
+.leftbio{
+  text-align: center;
+}
+
+#biopic {
+  height: 300px;
+  border-radius: 50%;
+  border: 10px black solid;
+}
+
+.contactlinks {
+  font-family: 'Cormorant Garamond';
+  font-size: 30px;
+  line-height: 10px;
+  color: black;
+}
+
+.contactlinks a {
+  color: #0000cc;
+}
